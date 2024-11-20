@@ -1,0 +1,63 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+.logo {
+  height: 6em;
+  padding: 1em;
+  will-change: filter;
+  transition: filter 300ms;
+  font-size: 2.0em;
+}
+
+.logomark {
+  display: inline-block;
+  vertical-align: middle;
+  height:0.95em;
+  will-change: filter;
+  transition: filter 300ms;
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #0f0f12aa);
+}
+.logo.solid:hover{
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.header {
+  background-color: #f6f6f6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.link {
+  color: #888;
+  font-size: large;
+}
+
+/* .title {
+  color: #1a1a1a;
+  margin-top: 60px;
+} */
