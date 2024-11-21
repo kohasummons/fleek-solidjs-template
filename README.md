@@ -1,5 +1,5 @@
 # Solidjs Boilerplate
-![Solid Boilerplate](https://github.com/fleek-tools/nextjs-template/assets/74613246/22471d74-1cfa-4645-a9cf-d1c15a6c45b2)
+![Solid Boilerplate](./src/assets/fleek-solidjs.png)
 
 
 ## 🚀 Project Structure
@@ -7,19 +7,25 @@
 Inside of your Next.js project, you'll see the following folders and files:
 
 ```
-/
-├── index.html
-├── jsconfig.json
-├── package.json
-├── src
-│   ├── App.jsx
-│   ├── App.module.css
-│   ├── assets
-│   │   └── favicon.ico
-│   ├── index.css
-│   ├── index.jsx
-│
-└── vite.config.js
+├ public
+│  ├ fleek-logo.png
+│  └ fleek-xyz.png
+├ src
+│  ├  assets
+│  │  └ favicon.ico
+│  ├ App.jsx
+│  ├ App.module.css
+│  ├ index.css
+│  ├ index.jsx
+│  └ solidLogo.svg
+├ index.html
+├ jsconfig.json
+├ package.json
+├ postcss.config.js
+├ README.md
+├ tailwind.config.js
+└ vite.config.js
+
 ```
 
 If you want to lern more about the `solidjs` you can checkout the [ documentation](https://docs.solidjs.com/).
