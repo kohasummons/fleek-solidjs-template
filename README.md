@@ -1,10 +1,10 @@
 # Solidjs Boilerplate
-![Solid Boilerplate](./src/assets/fleek-solidjs.png)
+![Solid Boilerplate](./src/assets/solid-fleek.png)
 
 
 ## 🚀 Project Structure
 
-Inside of your Next.js project, you'll see the following folders and files:
+Inside of your Solid.js project, you'll see the following folders and files:
 
 ```
 ├ public
