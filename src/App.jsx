@@ -8,7 +8,7 @@ function App() {
     <div class={styles.App}>
       <header class={styles.header}>
         <div>
-          <a href="https://vitejs.dev" target="_blank">
+          <a href="https://fleek.xyz/" target="_blank">
             <img src={fleekLogo} class={styles.logo} alt="Fleek logo" />
           </a>
           <a href="https://solidjs.com" target="_blank">
